@@ -1,2 +1,2 @@
 # moody-web-studio-
-A modern front‑end web project built for my Advanced Web Design capstone, focused on clean UI, responsive layouts, and real‑world development practices.
+The purpose of this project is to develop a fully functional capstone web application using industry‑standard tools, workflows, and development practices. The project will demonstrate proficiency in front‑end and back‑end development, API integration, security considerations, and hosting requirements. The intended outcome is a complete, well‑documented application that meets the technical and communication standards outlined in the course.
